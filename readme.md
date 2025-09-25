@@ -12,7 +12,7 @@ AI Data Analyst is an AI-powered assistant that reads and analyzes data from use
 
 # Technical architecture
 
-<img src="https://github.com/a2-choudhry/ai-data-analyst/blob/f388699698289107d3a93d1d5e1214688a94d5ad/diagram.JPG " width="48">
+<img src="https://github.com/a2-choudhry/ai-data-analyst/blob/f388699698289107d3a93d1d5e1214688a94d5ad/diagram.JPG " width="480">
 
 🐳 **Run with Docker**
 
