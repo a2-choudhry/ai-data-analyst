@@ -1,6 +1,6 @@
 # AI Data Analyst
 
-This project is an AI-powered Data Analyst assistant that accepts speech + image inputs and generates insights. It is containerized with Docker for easy deployment.
+AI Data Analyst is an AI-powered assistant that reads and analyzes data from user-provided speech and images, generating actionable insights in both text and audio form. The system combines advanced multimodal AI capabilities with a seamless Gradio interface and is fully containerized with Docker for easy deployment.
 
 **Features**
 
