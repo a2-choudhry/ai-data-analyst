@@ -14,7 +14,7 @@ AI Data Analyst is an AI-powered assistant that reads and analyzes data from use
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-data-analyst.git
+git clone https://github.com/a2-choudhry/ai-data-analyst.git
 cd ai-data-analyst
 
 # Build the Docker image
