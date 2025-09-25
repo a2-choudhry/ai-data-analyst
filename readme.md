@@ -10,6 +10,9 @@ AI Data Analyst is an AI-powered assistant that reads and analyzes data from use
 - Audio playback of results
 - Option to download responses.
 
+#Technical architecture
+![image alt](https://github.com/a2-choudhry/ai-data-analyst/blob/f388699698289107d3a93d1d5e1214688a94d5ad/diagram.JPG)
+
 🐳 **Run with Docker**
 
 ```bash
@@ -22,3 +25,5 @@ docker build -t ai-data-analyst .
 
 # Run the container
 docker run -p 7860:7860 ai-data-analyst
+
+
